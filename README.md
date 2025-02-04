@@ -1,0 +1,2 @@
+# javascriptDetails
+JavaScript details explanation 
