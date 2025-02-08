@@ -1,2 +1,3 @@
-# javascriptDetails
-JavaScript details explanation 
+console.log(!!"false");
+output 
+true 
